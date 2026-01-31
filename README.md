@@ -1,4 +1,5 @@
 Data Science Project: School Milk Bid Rigging Analysis
+
 📌 Project Overview
 This project involves a detailed investigation into potential bid rigging and market manipulation within the school milk supply contracts in Kentucky, USA. As a Data Scientist, the objective is to analyze historical bidding data to identify anti-competitive patterns between two major suppliers, Meyer and Trauth, particularly within the "tri-county" region.
 +2
